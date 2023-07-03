@@ -1,0 +1,23 @@
+.text-badge {
+  padding: .1em .4em;
+  background: var(--bs-emphasis-color);
+}
+
+.banner {
+  text-align: center;
+  background: var(--bs-link-hover-color);
+  border-radius: 1em;
+  padding: 2em 1em;
+}
+
+.projetos {
+  --bs-gutter-y: 1.5rem;
+}
+
+.container {
+}
+
+footer {
+  background: var(--bs-black);
+}
+
